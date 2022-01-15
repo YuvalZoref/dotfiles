@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yuval_zoref@hotmail.com
+	name = yuvalzoref
